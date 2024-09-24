@@ -1,5 +1,5 @@
 # Prediction_And_Reccomendation_System_For_Stocks
-I developed an advanced Stock Market Prediction and Recommendation System utilizing robust technical indicators to analyze stock performance and predict future trends using K means Clustering with Regression. This project employs sophisticated metrics such as Moving Averages (SMA), Relative Strength Index (RSI), and Moving Average Convergence Divergence (MACD), providing in-depth insights into market behavior and guiding strategic investment decisions.
+I developed an advanced Stock Market Prediction and Recommendation System utilizing robust technical indicators to analyze stock performance and predict future trends using K means Clustering with Linear Regression. This project employs sophisticated metrics such as Moving Averages (SMA), Relative Strength Index (RSI), and Moving Average Convergence Divergence (MACD), providing in-depth insights into market behavior and guiding strategic investment decisions.
 
 Key Features:
 
